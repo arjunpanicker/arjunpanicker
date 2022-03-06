@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/arjunpanicker95"><img src="https://api.daily.dev/devcards/a7944d0f6d164c2fa4b2b93d9a6e5c4e.png?r=5p8" width="400" alt="Arjun Panicker's Dev Card"/></a>
+
 <!--
 **arjunpanicker/arjunpanicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
